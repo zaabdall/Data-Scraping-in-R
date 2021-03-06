@@ -1,1 +1,1 @@
-Sample of code used to scrape data in R!
+Sample of code used to scrape county data in R
